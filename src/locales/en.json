@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "about": "About",
+    "stack": "Stack",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "role": "Semi-Senior Software Developer",
+    "titleLine1": "Building the",
+    "titleHighlight": "future",
+    "titleLine2": "of web.",
+    "subtitle": "Crafting scalable, performant web applications with modern technologies and a passion for clean architecture.",
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me"
+  },
+  "about": {
+    "label": "About Me",
+    "titleLine1": "Passionate about building",
+    "titleHighlight": "digital experiences",
+    "paragraph1": "I'm a mid-level software developer with a deep love for creating elegant, user-centric web applications. With experience spanning frontend and backend technologies, I bring ideas to life through clean architecture and performant code.",
+    "paragraph2": "When I'm not coding, you'll find me exploring new frameworks, contributing to open-source projects, and continuously pushing the boundaries of what's possible on the web.",
+    "skills": [
+      "Problem Solving",
+      "Clean Code",
+      "Agile",
+      "System Design",
+      "API Design",
+      "Performance"
+    ]
+  },
+  "skills": {
+    "label": "Technologies",
+    "titleLine1": "My Tech",
+    "titleHighlight": "Stack",
+    "categories": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Tools": "Tools"
+    }
+  },
+  "projects": {
+    "label": "Work",
+    "titleLine1": "Featured",
+    "titleHighlight": "Projects",
+    "filterAll": "All",
+    "liveDemo": "Live Demo",
+    "source": "Source",
+    "items": [
+      {
+        "title": "E-Commerce Platform",
+        "description": "A full-stack e-commerce solution with real-time inventory, payment integration, and admin dashboard."
+      },
+      {
+        "title": "Task Management App",
+        "description": "Collaborative project management tool with drag-and-drop boards, real-time updates, and analytics."
+      },
+      {
+        "title": "Analytics Dashboard",
+        "description": "Interactive data visualization dashboard with custom charts, filters, and export capabilities."
+      },
+      {
+        "title": "Portfolio CMS",
+        "description": "Headless CMS for managing content with markdown support, media uploads, and SEO tools."
+      }
+    ]
+  },
+  "experience": {
+    "label": "Journey",
+    "titleLine1": "My",
+    "titleHighlight": "Experience",
+    "items": [
+      {
+        "year": "2024 – 2025",
+        "role": "Semi-Senior Software Developer",
+        "company": "Aceites Produclar Sas",
+        "description": "Developed enterprise applications with Angular and .NET, implementing responsive interfaces, user management, and admin modules with Google Sign-In authentication."
+      },
+      {
+        "year": "2023 – 2024",
+        "role": "Software Development Analyst",
+        "company": "Adn Software",
+        "description": "Built frontend features with Angular integrating external libraries and consuming .NET backend APIs. Implemented Google Sign-In authentication, role-based route protection, and collaborated on integration and deployment processes using Azure DevOps."
+      },
+      {
+        "year": "2021 – 2022",
+        "role": "Junior Frontend Developer",
+        "company": "Bindata",
+        "description": "Developed web interfaces with Angular and TypeScript, implementing reusable components and responsive design. Integrated REST APIs, configured authentication with Firebase Authentication, and connected billing services through Alegra."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Get in Touch",
+    "titleLine1": "Let's",
+    "titleHighlight": "Connect",
+    "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's build something amazing together.",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email",
+    "messagePlaceholder": "Your Message",
+    "send": "Send Message",
+    "sent": "Sent!",
+    "errorRequired": "This field is required",
+    "errorEmail": "Please enter a valid email address"
+  },
+  "footer": {
+    "copyright": "© {year} dev.folio — All rights reserved."
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Oops! Page not found",
+    "returnHome": "Return to Home"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "stack": "Tecnologías",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "role": "Desarrollador de Software Semi-Senior",
+    "titleLine1": "Construyendo el",
+    "titleHighlight": "futuro",
+    "titleLine2": "de la web.",
+    "subtitle": "Creando aplicaciones web escalables y de alto rendimiento con tecnologías modernas y pasión por la arquitectura limpia.",
+    "viewProjects": "Ver Proyectos",
+    "contactMe": "Contáctame"
+  },
+  "about": {
+    "label": "Sobre Mí",
+    "titleLine1": "Apasionado por crear",
+    "titleHighlight": "experiencias digitales",
+    "paragraph1": "Soy un desarrollador de software de nivel medio con un profundo amor por crear aplicaciones web elegantes y centradas en el usuario. Con experiencia en tecnologías frontend y backend, doy vida a las ideas a través de arquitectura limpia y código eficiente.",
+    "paragraph2": "Cuando no estoy programando, me encontrarás explorando nuevos frameworks, contribuyendo a proyectos de código abierto y superando continuamente los límites de lo posible en la web.",
+    "skills": [
+      "Resolución de Problemas",
+      "Código Limpio",
+      "Ágil",
+      "Diseño de Sistemas",
+      "Diseño de APIs",
+      "Rendimiento"
+    ]
+  },
+  "skills": {
+    "label": "Tecnologías",
+    "titleLine1": "Mi Stack",
+    "titleHighlight": "Tecnológico",
+    "categories": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Tools": "Herramientas"
+    }
+  },
+  "projects": {
+    "label": "Trabajo",
+    "titleLine1": "Proyectos",
+    "titleHighlight": "Destacados",
+    "filterAll": "Todos",
+    "liveDemo": "Demo en Vivo",
+    "source": "Código",
+    "items": [
+      {
+        "title": "Plataforma E-Commerce",
+        "description": "Una solución e-commerce full-stack con inventario en tiempo real, integración de pagos y panel de administración."
+      },
+      {
+        "title": "App de Gestión de Tareas",
+        "description": "Herramienta colaborativa de gestión de proyectos con tableros drag-and-drop, actualizaciones en tiempo real y analíticas."
+      },
+      {
+        "title": "Dashboard de Analíticas",
+        "description": "Dashboard interactivo de visualización de datos con gráficos personalizados, filtros y capacidades de exportación."
+      },
+      {
+        "title": "CMS de Portafolio",
+        "description": "CMS headless para gestionar contenido con soporte markdown, carga de medios y herramientas SEO."
+      }
+    ]
+  },
+  "experience": {
+    "label": "Trayectoria",
+    "titleLine1": "Mi",
+    "titleHighlight": "Experiencia",
+    "items": [
+      {
+        "year": "2024 – 2025",
+        "role": "Desarrollador de Software de Nivel Semi-Senior",
+        "company": "Aceites Produclar Sas",
+        "description": "Desarrollo de aplicaciones empresariales con Angular y .NET, implementando interfaces responsivas, gestión de usuarios y módulos administrativos con autenticación mediante Google Sign-In."
+      },
+      {
+        "year": "2023 – 2024",
+        "role": "Analista de Desarrollo de Software",
+        "company": "Adn Software",
+        "description": "Desarrollé funcionalidades frontend con Angular integrando librerías externas y consumiendo APIs de backend en .NET. Implementé autenticación con Google Sign-In, protección de rutas basada en roles y colaboré en procesos de integración y despliegue mediante Azure DevOps."
+      },
+      {
+        "year": "2021 – 2022",
+        "role": "Desarrollador Frontend Junior",
+        "company": "Bindata",
+        "description": "Desarrollé interfaces web con Angular y TypeScript, implementando componentes reutilizables y diseño responsive. Integré APIs REST, configuré autenticación con Firebase Authentication y conecté servicios de facturación mediante Alegra."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Ponte en Contacto",
+    "titleLine1": "Vamos a",
+    "titleHighlight": "Conectar",
+    "description": "Siempre estoy abierto a discutir nuevos proyectos, ideas creativas u oportunidades para ser parte de tu visión. Construyamos algo increíble juntos.",
+    "namePlaceholder": "Tu Nombre",
+    "emailPlaceholder": "Tu Correo Electrónico",
+    "messagePlaceholder": "Tu Mensaje",
+    "send": "Enviar Mensaje",
+    "sent": "¡Enviado!",
+    "errorRequired": "Este campo es obligatorio",
+    "errorEmail": "Ingresa un correo electrónico válido"
+  },
+  "footer": {
+    "copyright": "© {year} dev.folio — Todos los derechos reservados."
+  },
+  "notFound": {
+    "title": "404",
+    "message": "¡Ups! Página no encontrada",
+    "returnHome": "Volver al Inicio"
+  }
+}
