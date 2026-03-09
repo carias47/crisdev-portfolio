@@ -37,9 +37,7 @@ const About = () => {
           <p className="text-muted-foreground leading-relaxed mb-6">
             {t.about.paragraph1}
           </p>
-          <p className="text-muted-foreground leading-relaxed mb-8">
-            {t.about.paragraph2}
-          </p>
+         
 
           <div className="flex flex-wrap gap-2">
             {t.about.skills.map((skill, i) => (

@@ -39,7 +39,7 @@ const Experience = () => {
             {/* Content */}
             <div className={`ml-12 md:ml-0 md:w-1/2 ${i % 2 === 0 ? "md:pr-12 md:text-right" : "md:pl-12"}`}>
               <span className="text-xs font-medium text-primary tracking-wider">{exp.year}</span>
-              <h3 className="font-heading text-lg font-semibold text-foreground mt-1">{exp.role}</h3>
+              <h3 className="font-heading text-base sm:text-lg font-semibold text-foreground mt-1">{exp.role}</h3>
               <p className="text-sm font-medium text-muted-foreground mb-2">{exp.company}</p>
               <p className="text-sm text-muted-foreground leading-relaxed">{exp.description}</p>
             </div>

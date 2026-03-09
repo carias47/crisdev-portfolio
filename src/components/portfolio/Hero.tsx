@@ -22,7 +22,7 @@ const Hero = () => {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
-          className="text-sm md:text-base font-medium tracking-[0.3em] uppercase text-muted-foreground mb-6"
+          className="text-sm md:text-base font-medium tracking-[0.15em] sm:tracking-[0.3em] uppercase text-muted-foreground mb-4 sm:mb-6"
         >
           {t.hero.role}
         </motion.p>
@@ -31,7 +31,7 @@ const Hero = () => {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.15 }}
-          className="font-heading text-5xl md:text-7xl lg:text-8xl font-bold leading-[0.95] mb-8"
+          className="font-heading text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-bold leading-tight sm:leading-[1.1] md:leading-[0.95] mb-5 sm:mb-8"
         >
           {t.hero.titleLine1}
           <br />
@@ -42,7 +42,7 @@ const Hero = () => {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.35 }}
-          className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-12"
+          className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8 sm:mb-12"
         >
           {t.hero.subtitle}
         </motion.p>

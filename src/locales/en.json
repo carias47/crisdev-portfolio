@@ -19,8 +19,7 @@
     "label": "About Me",
     "titleLine1": "Passionate about building",
     "titleHighlight": "digital experiences",
-    "paragraph1": "I'm a mid-level software developer with a deep love for creating elegant, user-centric web applications. With experience spanning frontend and backend technologies, I bring ideas to life through clean architecture and performant code.",
-    "paragraph2": "When I'm not coding, you'll find me exploring new frameworks, contributing to open-source projects, and continuously pushing the boundaries of what's possible on the web.",
+    "paragraph1": "Semi-senior software developer with 3+ years of experience focused on creating scalable, efficient, and user-centric web applications. Experienced in frontend and backend technologies, applying best practices in architecture, clean code, and results-oriented development to transform requirements into functional solutions.",
     "skills": [
       "Problem Solving",
       "Clean Code",
@@ -49,20 +48,20 @@
     "source": "Source",
     "items": [
       {
-        "title": "E-Commerce Platform",
+        "title": "Spotlight Profiles",
         "description": "A full-stack e-commerce solution with real-time inventory, payment integration, and admin dashboard."
       },
       {
-        "title": "Task Management App",
-        "description": "Collaborative project management tool with drag-and-drop boards, real-time updates, and analytics."
+        "title": "Easy Clean App",
+        "description": "A platform that connects homes, offices, businesses, and buildings with qualified cleaning staff, pre-verified and formally registered to provide reliable and safe cleaning services."
       },
       {
-        "title": "Analytics Dashboard",
+        "title": "Teslo Shop",
         "description": "Interactive data visualization dashboard with custom charts, filters, and export capabilities."
       },
       {
-        "title": "Portfolio CMS",
-        "description": "Headless CMS for managing content with markdown support, media uploads, and SEO tools."
+        "title": "Mappx",
+        "description": "Web application developed with Mapbox that allows you to search for locations by name, view results on an interactive map and manage custom markers to identify and organize points of interest."
       }
     ]
   },
@@ -74,7 +73,7 @@
       {
         "year": "2024 – 2025",
         "role": "Semi-Senior Software Developer",
-        "company": "Aceites Produclar Sas",
+        "company": "Produclar SAS",
         "description": "Developed enterprise applications with Angular and .NET, implementing responsive interfaces, user management, and admin modules with Google Sign-In authentication."
       },
       {
@@ -105,7 +104,7 @@
     "errorEmail": "Please enter a valid email address"
   },
   "footer": {
-    "copyright": "© {year} dev.folio — All rights reserved."
+    "copyright": "© {year} cris.dev — All rights reserved."
   },
   "notFound": {
     "title": "404",

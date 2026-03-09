@@ -19,8 +19,7 @@
     "label": "Sobre Mí",
     "titleLine1": "Apasionado por crear",
     "titleHighlight": "experiencias digitales",
-    "paragraph1": "Soy un desarrollador de software de nivel medio con un profundo amor por crear aplicaciones web elegantes y centradas en el usuario. Con experiencia en tecnologías frontend y backend, doy vida a las ideas a través de arquitectura limpia y código eficiente.",
-    "paragraph2": "Cuando no estoy programando, me encontrarás explorando nuevos frameworks, contribuyendo a proyectos de código abierto y superando continuamente los límites de lo posible en la web.",
+    "paragraph1": "Desarrollador de software semi-senior con +3 años de experiencia enfocado en la creación de aplicaciones web escalables, eficientes y centradas en la experiencia del usuario. Cuenta con experiencia en tecnologías frontend y backend, aplicando buenas prácticas de arquitectura, código limpio y desarrollo orientado a resultados para transformar requerimientos en soluciones funcionales.",
     "skills": [
       "Resolución de Problemas",
       "Código Limpio",
@@ -49,20 +48,20 @@
     "source": "Código",
     "items": [
       {
-        "title": "Plataforma E-Commerce",
+        "title": "Spotlight Profiles",
         "description": "Una solución e-commerce full-stack con inventario en tiempo real, integración de pagos y panel de administración."
       },
       {
-        "title": "App de Gestión de Tareas",
-        "description": "Herramienta colaborativa de gestión de proyectos con tableros drag-and-drop, actualizaciones en tiempo real y analíticas."
+        "title": "Limpia Fácil App",
+        "description": "Plataforma que conecta hogares, oficinas, comercios y edificios con personal de limpieza calificado, previamente verificado y vinculado formalmente para prestar servicios de aseo de manera confiable y segura."
       },
       {
-        "title": "Dashboard de Analíticas",
+        "title": "Teslo Shop",
         "description": "Dashboard interactivo de visualización de datos con gráficos personalizados, filtros y capacidades de exportación."
       },
       {
-        "title": "CMS de Portafolio",
-        "description": "CMS headless para gestionar contenido con soporte markdown, carga de medios y herramientas SEO."
+        "title": "Mappx",
+        "description": "Aplicación basada en Mapbox que permite buscar ubicaciones por nombre, visualizar resultados en un mapa interactivo y gestionar marcadores personalizados para identificar y organizar puntos de interés."
       }
     ]
   },
@@ -74,8 +73,8 @@
       {
         "year": "2024 – 2025",
         "role": "Desarrollador de Software de Nivel Semi-Senior",
-        "company": "Aceites Produclar Sas",
-        "description": "Desarrollo de aplicaciones empresariales con Angular y .NET, implementando interfaces responsivas, gestión de usuarios y módulos administrativos con autenticación mediante Google Sign-In."
+        "company": "Produclar SAS",
+        "description": "Desarrollo de aplicaciones empresariales con Angular y .NET, implementando interfaces responsivas, integración con APIs REST, gestión de usuarios y módulos administrativos. Desarrollo debackend en .NET para lógica de negocio y acceso a datos, con autenticación mediante Google."
       },
       {
         "year": "2023 – 2024",
@@ -105,7 +104,7 @@
     "errorEmail": "Ingresa un correo electrónico válido"
   },
   "footer": {
-    "copyright": "© {year} dev.folio — Todos los derechos reservados."
+    "copyright": "© {year} cris.dev — Todos los derechos reservados."
   },
   "notFound": {
     "title": "404",

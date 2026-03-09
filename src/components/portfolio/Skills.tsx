@@ -78,7 +78,7 @@ const Skills = () => {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ delay: catIdx * 0.15, duration: 0.6 }}
-            className="glass-card rounded-2xl p-8"
+            className="glass-card rounded-2xl p-5 sm:p-8"
           >
             <h3 className="font-heading text-lg font-semibold mb-6 text-foreground">
               {t.skills.categories[catKey]}
