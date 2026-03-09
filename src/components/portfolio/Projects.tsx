@@ -5,7 +5,7 @@ import { useTranslation } from "@/i18n/LanguageContext";
 import limpiafacil from "@/assets/limpiafacil.jpg";
 import  mappx from "@/assets/mappx.jpg";
 import spotlight from "@/assets/spotlight.jpg";
-import shop from "@/assets/shop.jpg";
+import store from "@/assets/store.jpg";
 
 interface ProjectData {
   techs: string[];
@@ -34,7 +34,7 @@ const projectsData: ProjectData[] = [
     techs: ["React", "Nest.js", "REST APIs"],
     gradient: "from-blue-500/20 via-indigo-500/20 to-violet-500/20",
     icon: BarChart3,
-    image: shop,
+    image: store,
   },
   {
     techs: ["Angular", "SQL Server", "REST APIs"],

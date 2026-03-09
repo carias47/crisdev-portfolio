@@ -49,15 +49,15 @@
     "items": [
       {
         "title": "Spotlight Profiles",
-        "description": "A full-stack e-commerce solution with real-time inventory, payment integration, and admin dashboard."
+        "description": "A web platform designed for creating and managing digital professional portfolios. The project focused on providing users with a structured and modern solution to showcase their experience, skills, and projects through responsive professional profiles optimized for different devices."
       },
       {
-        "title": "Easy Clean App",
+        "title": "Limpia Fácil App",
         "description": "A platform that connects homes, offices, businesses, and buildings with qualified cleaning staff, pre-verified and formally registered to provide reliable and safe cleaning services."
       },
       {
-        "title": "Teslo Shop",
-        "description": "Interactive data visualization dashboard with custom charts, filters, and export capabilities."
+        "title": "Merca Store",
+        "description": "An e-commerce platform focused on the comprehensive management of products and administrative operations. The system incorporates separate modules for users and administrators, enabling account management, inventory control, and product catalog administration."
       },
       {
         "title": "Mappx",
